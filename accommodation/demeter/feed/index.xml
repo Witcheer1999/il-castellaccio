@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Demeter	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=demeter</link>
+	<description></description>
+	<lastBuildDate>Thu, 04 May 2023 15:03:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>
+		By: Freddie Chandler		</title>
+		<link>./../index.html#comment-7</link>
+
+		<dc:creator><![CDATA[Freddie Chandler]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2020 15:53:43 +0000</pubDate>
+		<guid isPermaLink="false">https://themes.getmotopress.com/albatross/?post_type=mphb_room_type&#038;p=72#comment-7</guid>
+
+					<description><![CDATA[Very convenient location, easy access to public transportation (both bus and metro), a lot of restaurants nearby. an western super market and oriental food super market in short walk distance. extremely friendly landlord , extremely well functioned kitchen and other facilities. Flexibility of late check out. Bank and department store in walk distance. Easy to find the place and can never get lost!]]></description>
+			<content:encoded><![CDATA[<p>Very convenient location, easy access to public transportation (both bus and metro), a lot of restaurants nearby. an western super market and oriental food super market in short walk distance. extremely friendly landlord , extremely well functioned kitchen and other facilities. Flexibility of late check out. Bank and department store in walk distance. Easy to find the place and can never get lost!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Jacob Davey		</title>
+		<link>./../index.html#comment-6</link>
+
+		<dc:creator><![CDATA[Jacob Davey]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2020 15:53:15 +0000</pubDate>
+		<guid isPermaLink="false">https://themes.getmotopress.com/albatross/?post_type=mphb_room_type&#038;p=72#comment-6</guid>
+
+					<description><![CDATA[The apartment was perfectly located for our needs. It is practically brand new with modern design and furniture. Fully equipped kitchen including coffee machine, washing machine and dishwasher. Good heating system. All our requirements were catered for. Would strongly recommend.]]></description>
+			<content:encoded><![CDATA[<p>The apartment was perfectly located for our needs. It is practically brand new with modern design and furniture. Fully equipped kitchen including coffee machine, washing machine and dishwasher. Good heating system. All our requirements were catered for. Would strongly recommend.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

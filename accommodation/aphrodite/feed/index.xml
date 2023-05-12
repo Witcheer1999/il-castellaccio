@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Aphrodite	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=aphrodite</link>
+	<description></description>
+	<lastBuildDate>Thu, 04 May 2023 15:03:37 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>
+		By: Erik Maurer		</title>
+		<link>./../index.html#comment-5</link>
+
+		<dc:creator><![CDATA[Erik Maurer]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2020 15:54:41 +0000</pubDate>
+		<guid isPermaLink="false">https://themes.getmotopress.com/albatross/?post_type=mphb_room_type&#038;p=70#comment-5</guid>
+
+					<description><![CDATA[This apartment is incredible for staying with kids and family: very spacious, with a huge balcony and wide terrace. Enjoyed staying here!]]></description>
+			<content:encoded><![CDATA[<p>This apartment is incredible for staying with kids and family: very spacious, with a huge balcony and wide terrace. Enjoyed staying here!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Nathan Reynolds		</title>
+		<link>./../index.html#comment-4</link>
+
+		<dc:creator><![CDATA[Nathan Reynolds]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2020 15:54:17 +0000</pubDate>
+		<guid isPermaLink="false">https://themes.getmotopress.com/albatross/?post_type=mphb_room_type&#038;p=70#comment-4</guid>
+
+					<description><![CDATA[I set my sights on this apartment as soon as I saw it and this was surely the most perfect choice for me. The apartment is super big, clean and thoroughly designed, which I personally do like. All the noise from the streets was left right there and entering the apartment I felt calmness and could relax. Indeed, this is a great accommodation!]]></description>
+			<content:encoded><![CDATA[<p>I set my sights on this apartment as soon as I saw it and this was surely the most perfect choice for me. The apartment is super big, clean and thoroughly designed, which I personally do like. All the noise from the streets was left right there and entering the apartment I felt calmness and could relax. Indeed, this is a great accommodation!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

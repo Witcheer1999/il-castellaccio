@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Poseidon	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=poseidon</link>
+	<description></description>
+	<lastBuildDate>Thu, 04 May 2023 15:02:39 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>
+		By: Stacy Palmer		</title>
+		<link>./../index.html#comment-9</link>
+
+		<dc:creator><![CDATA[Stacy Palmer]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2020 15:52:15 +0000</pubDate>
+		<guid isPermaLink="false">https://themes.getmotopress.com/albatross/?post_type=mphb_room_type&#038;p=75#comment-9</guid>
+
+					<description><![CDATA[Great location only a couple of minutes from the overground station. Very comfortable, large room. Nice bathroom with everything you could need. Good choice at breakfast. Great host.]]></description>
+			<content:encoded><![CDATA[<p>Great location only a couple of minutes from the overground station. Very comfortable, large room. Nice bathroom with everything you could need. Good choice at breakfast. Great host.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Cynthia Ivory		</title>
+		<link>./../index.html#comment-8</link>
+
+		<dc:creator><![CDATA[Cynthia Ivory]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2020 15:51:46 +0000</pubDate>
+		<guid isPermaLink="false">https://themes.getmotopress.com/albatross/?post_type=mphb_room_type&#038;p=75#comment-8</guid>
+
+					<description><![CDATA[Very friendly staff. Fabulous breakfast – including huge range of choices. Very good location – walking distance of the train station.]]></description>
+			<content:encoded><![CDATA[<p>Very friendly staff. Fabulous breakfast – including huge range of choices. Very good location – walking distance of the train station.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

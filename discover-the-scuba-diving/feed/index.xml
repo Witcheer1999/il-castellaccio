@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Discover the Scuba Diving	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=discover-the-scuba-diving</link>
+	<description></description>
+	<lastBuildDate>Wed, 04 Nov 2020 15:41:08 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>
+		By: Lucio Rossi		</title>
+		<link>./../index.html#comment-17</link>
+
+		<dc:creator><![CDATA[Lucio Rossi]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2020 15:41:08 +0000</pubDate>
+		<guid isPermaLink="false">https://themes.getmotopress.com/albatross/?p=167#comment-17</guid>
+
+					<description><![CDATA[We were given all required equipment and our instructor followed us through the whole journey. We liked it!]]></description>
+			<content:encoded><![CDATA[<p>We were given all required equipment and our instructor followed us through the whole journey. We liked it!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Freddie Chandler		</title>
+		<link>./../index.html#comment-16</link>
+
+		<dc:creator><![CDATA[Freddie Chandler]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2020 15:40:46 +0000</pubDate>
+		<guid isPermaLink="false">https://themes.getmotopress.com/albatross/?p=167#comment-16</guid>
+
+					<description><![CDATA[This was my first time experiencing scuba diving and I will never forget it! Marine world is so diverse and unique that everyone will discover something new.]]></description>
+			<content:encoded><![CDATA[<p>This was my first time experiencing scuba diving and I will never forget it! Marine world is so diverse and unique that everyone will discover something new.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

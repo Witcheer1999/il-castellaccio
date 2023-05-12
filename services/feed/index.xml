@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Services Archive - Il Castellaccio</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 03 Nov 2020 21:04:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>Car rental</title>
+		<link>./../car-rental/index.html?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=car-rental</link>
+					<comments>./../car-rental/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[mbagnoli999]]></dc:creator>
+		<pubDate>Tue, 03 Nov 2020 21:04:23 +0000</pubDate>
+				<guid isPermaLink="false">https://themes.getmotopress.com/albatross/?post_type=mphb_room_service&#038;p=69</guid>
+
+					<description><![CDATA[<p>Price &#036;25 / Per Day / Per Accommodation</p>
+<p>The post <a rel="nofollow" href="./../car-rental/index.html">Car rental</a> appeared first on <a rel="nofollow" href="./../../index.html">Il Castellaccio </a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<h2 class="mphb-price-title">Price</h2><p class="mphb-price-wrapper">
+<span class="mphb-price"><span class="mphb-currency">&#036;</span>25</span> / Per Day / Per Accommodation
+</p><p>The post <a rel="nofollow" href="./../car-rental/index.html">Car rental</a> appeared first on <a rel="nofollow" href="./../../index.html">Il Castellaccio </a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../car-rental/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Child Care Center</title>
+		<link>./../child-care-center/index.html?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=child-care-center</link>
+					<comments>./../child-care-center/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[mbagnoli999]]></dc:creator>
+		<pubDate>Tue, 03 Nov 2020 21:03:58 +0000</pubDate>
+				<guid isPermaLink="false">https://themes.getmotopress.com/albatross/?post_type=mphb_room_service&#038;p=68</guid>
+
+					<description><![CDATA[<p>Price &#036;50 / Per Day / Per Guest</p>
+<p>The post <a rel="nofollow" href="./../child-care-center/index.html">Child Care Center</a> appeared first on <a rel="nofollow" href="./../../index.html">Il Castellaccio </a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<h2 class="mphb-price-title">Price</h2><p class="mphb-price-wrapper">
+<span class="mphb-price"><span class="mphb-currency">&#036;</span>50</span> / Per Day / Per Guest
+</p><p>The post <a rel="nofollow" href="./../child-care-center/index.html">Child Care Center</a> appeared first on <a rel="nofollow" href="./../../index.html">Il Castellaccio </a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../child-care-center/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Indoor Restaurant</title>
+		<link>./../indoor-restaurant/index.html?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=indoor-restaurant</link>
+					<comments>./../indoor-restaurant/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[mbagnoli999]]></dc:creator>
+		<pubDate>Tue, 03 Nov 2020 21:03:34 +0000</pubDate>
+				<guid isPermaLink="false">https://themes.getmotopress.com/albatross/?post_type=mphb_room_service&#038;p=67</guid>
+
+					<description><![CDATA[<p>Price Free</p>
+<p>The post <a rel="nofollow" href="./../indoor-restaurant/index.html">Indoor Restaurant</a> appeared first on <a rel="nofollow" href="./../../index.html">Il Castellaccio </a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<h2 class="mphb-price-title">Price</h2><p class="mphb-price-wrapper">
+<span class="mphb-price">Free</span>
+</p><p>The post <a rel="nofollow" href="./../indoor-restaurant/index.html">Indoor Restaurant</a> appeared first on <a rel="nofollow" href="./../../index.html">Il Castellaccio </a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../indoor-restaurant/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
